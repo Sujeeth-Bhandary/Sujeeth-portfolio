@@ -23,7 +23,6 @@ const languages = [
   { name: "Python", icon: <SiPython size={20} /> },
   { name: "C++", icon: <SiCplusplus size={20} /> },
   { name: "Java", icon: <DiJava size={20} /> },
-  { name: "Data Structures & Algorithms", icon: null },
   { name: "SQL", icon: <SiMysql size={20} /> },
 ];
 
