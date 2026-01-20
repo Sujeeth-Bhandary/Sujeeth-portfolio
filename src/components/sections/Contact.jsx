@@ -72,7 +72,7 @@ export const Contact = () => {
               hover:opacity-90 transition-all duration-300
               hover:-translate-y-1"
             >
-              Send Message 🚀
+              Send Message 
             </button>
           </form>
         </div>

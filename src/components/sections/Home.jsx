@@ -19,9 +19,10 @@ export const Home = () => {
         </h1>
 
         <p className="text-gray-400 mt-6 mb-10 text-lg max-w-xl mx-auto leading-relaxed">
-          I’m a full-stack developer skilled in the MERN stack, AI chatbots, and backend authentication.
-          I enjoy solving problems using data structures and algorithms and building efficient,
-          real-world applications.
+          I’m Sujeeth, a Computer Science undergraduate with a strong interest in full-stack web development and applied artificial intelligence. I 
+          enjoy building scalable web applications using the MERN stack and working on data-driven projects 
+          that solve real-world problems. With a solid foundation in programming, problem-solving, and modern development tools, 
+          I’m eager to contribute to impactful software projects while continuously learning and growing as a developer.
         </p>
 
         <div className="flex flex-col md:flex-row items-center justify-center gap-6">
