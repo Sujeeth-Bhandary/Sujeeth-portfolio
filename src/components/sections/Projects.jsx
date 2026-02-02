@@ -15,6 +15,12 @@ export const Projects = () => {
       tech: ["Python", "Data Analysis", "Visualization"],
     },
     {
+      title: "Real-time Location Tracker",
+      description:
+        "A real-time system that tracks and displays a user’s live location using internet connectivity.",
+      tech: ["Node.js","Express","Socket","Leaflet"],
+    },
+    {
       title: "Excel Analytics (MERN Stack)",
       description:
         "A MERN stack application that processes Excel files and visualizes data through interactive charts and dashboards.",
